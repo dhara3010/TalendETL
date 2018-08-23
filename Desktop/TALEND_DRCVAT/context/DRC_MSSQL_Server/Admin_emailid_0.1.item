@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_BeWJkJDLEeijU5iYA6HIbw" confirmationNeeded="false" name="Default">
-  <contextParameter xmi:id="_BeWJkZDLEeijU5iYA6HIbw" comment="" name="emailid" prompt="emailid?" promptNeeded="false" type="id_String" value="&quot;&quot;"/>
-</talendfile:ContextType>
