@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_Bd6rwJDLEeijU5iYA6HIbw" confirmationNeeded="false" name="Default">
+    <contextParameter xmi:id="_Bd6rwZDLEeijU5iYA6HIbw" comment="" name="Queue" prompt="Queue?" promptNeeded="false" type="id_String" value="&quot;D:/DRC/Talend/Files/BankReconciliationETL&quot;"/>
+    <contextParameter xmi:id="_Bd6rwpDLEeijU5iYA6HIbw" comment="" name="InProcess_Files" prompt="InProcess_Files?" promptNeeded="false" type="id_String" value="&quot;D:/DRC/Talend/Files/BankReconciliationETL/InProcess&quot;"/>
+    <contextParameter xmi:id="_Bd6rw5DLEeijU5iYA6HIbw" comment="" name="Processed_Files" prompt="Processed_Files?" promptNeeded="false" type="id_String" value="&quot;D:/DRC/Talend/Files/BankReconciliationETL/Processed&quot;"/>
+    <contextParameter xmi:id="_Bd6rxJDLEeijU5iYA6HIbw" comment="" name="Error_Files" prompt="Error_Files?" promptNeeded="false" type="id_String" value="&quot;D:/DRC/Talend/Files/BankReconciliationETL/Error&quot;"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_b_kv4KagEei3ye6Yyn5HXA" confirmationNeeded="false" name="OneDiveFolder">
+    <contextParameter xmi:id="_b_kv4aagEei3ye6Yyn5HXA" comment="" name="Queue" prompt="Queue?" promptNeeded="false" type="id_String" value="&quot;D:/OneDrive - 1Rivet/DRC/Talend/Files/BankReconciliationETL&quot;"/>
+    <contextParameter xmi:id="_b_kv4qagEei3ye6Yyn5HXA" comment="" name="InProcess_Files" prompt="InProcess_Files?" promptNeeded="false" type="id_String" value="&quot;D:/OneDrive - 1Rivet/DRC/Talend/Files/BankReconciliationETL/InProcess&quot;"/>
+    <contextParameter xmi:id="_b_kv46agEei3ye6Yyn5HXA" comment="" name="Processed_Files" prompt="Processed_Files?" promptNeeded="false" type="id_String" value="&quot;D:/OneDrive - 1Rivet/DRC/Talend/Files/BankReconciliationETL/Processed&quot;"/>
+    <contextParameter xmi:id="_b_kv5KagEei3ye6Yyn5HXA" comment="" name="Error_Files" prompt="Error_Files?" promptNeeded="false" type="id_String" value="&quot;D:/OneDrive - 1Rivet/DRC/Talend/Files/BankReconciliationETL/Error&quot;"/>
+  </talendfile:ContextType>
+</xmi:XMI>
