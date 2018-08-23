@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="__BdtQJrXEeichPgit6w-NA" confirmationNeeded="false" name="DRC_Server_Developer">
+    <contextParameter xmi:id="__BdtQZrXEeichPgit6w-NA" comment="" name="host" prompt="host?" promptNeeded="false" type="id_String" value="103.249.120.58"/>
+    <contextParameter xmi:id="__BdtQprXEeichPgit6w-NA" comment="" name="port" prompt="port?" promptNeeded="false" type="id_String" value="1433"/>
+    <contextParameter xmi:id="__BdtQ5rXEeichPgit6w-NA" comment="" name="schema" prompt="schema?" promptNeeded="false" type="id_String" value="Staging"/>
+    <contextParameter xmi:id="__BdtRJrXEeichPgit6w-NA" comment="" name="database" prompt="database?" promptNeeded="false" type="id_String" value="DRC"/>
+    <contextParameter xmi:id="__BdtRZrXEeichPgit6w-NA" comment="" name="username" prompt="username?" promptNeeded="false" type="id_String" value="Tripty"/>
+    <contextParameter xmi:id="__BdtRprXEeichPgit6w-NA" comment="" name="password" prompt="password?" promptNeeded="false" type="id_String" value="Tripty789@@@"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_KOpsUKR5EeiJ7fbVdppRhw" confirmationNeeded="false" name="DRC_Server_QA">
+    <contextParameter xmi:id="_KOpsUaR5EeiJ7fbVdppRhw" comment="" name="host" prompt="host?" promptNeeded="false" type="id_String" value="103.249.120.58"/>
+    <contextParameter xmi:id="_KOpsUqR5EeiJ7fbVdppRhw" comment="" name="port" prompt="port?" promptNeeded="false" type="id_String" value="1433"/>
+    <contextParameter xmi:id="_KOpsU6R5EeiJ7fbVdppRhw" comment="" name="schema" prompt="schema?" promptNeeded="false" type="id_String" value="Staging"/>
+    <contextParameter xmi:id="_KOpsVKR5EeiJ7fbVdppRhw" comment="" name="database" prompt="database?" promptNeeded="false" type="id_String" value="DRC-QA"/>
+    <contextParameter xmi:id="_KOpsVaR5EeiJ7fbVdppRhw" comment="" name="username" prompt="username?" promptNeeded="false" type="id_String" value="Tripty"/>
+    <contextParameter xmi:id="_KOpsVqR5EeiJ7fbVdppRhw" comment="" name="password" prompt="password?" promptNeeded="false" type="id_String" value="Tripty789@@@"/>
+  </talendfile:ContextType>
+</xmi:XMI>
